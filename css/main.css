@@ -1,0 +1,189 @@
+a,
+a:hover,
+a:focus {
+  text-decoration: none;
+  cursor: auto;
+  text-shadow: 1px 1px 3px rgba(50, 50, 50, 0.15);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: verdana,"microsoft yahei";
+  text-shadow: 1px 1px 3px rgba(50, 50, 50, 0.15);
+}
+
+h1 {
+  font-size: 28px;
+}
+
+time {
+  font-family: helvetica;
+  color: #999;
+  text-shadow: 1px 1px 3px rgba(50, 50, 50, 0.15);
+}
+
+.main {
+  height: 100%;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+.navbar-brand span:first-child {
+  font-size: 20px;
+  font-family: "trebuchet ms";
+  color: white;
+}
+
+.navbar-brand span:last-child {
+  font-size: 18px;
+  font-family: "trebuchet ms";
+  color: red;
+}
+
+.navbar-nav li {
+  font-family: "microsoft yahei";
+}
+
+.blog-footer {
+  padding: 40px 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+}
+
+.footer {
+  /*position: absolute;*/
+  /*bottom: 0;*/
+  margin-top: 50px;
+}
+
+.blog-header {
+  padding-bottom: 15px;
+  border-bottom: 1px solid #666;
+  font-size: 2em;
+  font-family: "microsoft yahei";
+  color: #8B0000;
+  text-shadow: 1px 1px 3px rgba(50, 50, 50, 0.15);
+}
+
+.article-content p {
+  margin-bottom: 25px;
+  color: #333;
+  word-break: normal;
+  font-family: georgia, "microsoft yahei";
+  font-size: 16px;
+  text-shadow: 1px 1px 3px rgba(50, 50, 50, 0.15);
+}
+
+.sidebar-module ul li {
+  font-size: 14px;
+  color: #999;
+  font-family: helvetica, "microsoft yahei";
+  border-bottom: 1px dotted #666;
+}
+
+.sidebar-module ul a {
+  font-size: 16px;
+  color: #4169e1;
+  margin-right: 5px;
+  font-family: garamond, "microsoft yahei";
+  font-weight: bold;
+}
+
+.sidebar-module ul a:hover {
+  color: #6495ed;
+  text-decoration: underline;
+}
+
+.blog-title {
+  font-weight: bold;
+  color: #b22222;
+}
+
+.blog-title:hover,
+.blog-title:focus {
+  color: #ee0000;
+}
+
+header h1 a {
+  float: right;
+  font-size: 26px;
+  color: #a3a3a3;
+}
+
+header h1 a:hover {
+  color: #ee0000;
+}
+
+.article-list section {
+  border-bottom: 1px dotted #666666;
+}
+
+.article-list article a {
+  font-size: 18px;
+  color: #4169e1;
+  font-family: "microsoft yahei";
+  font-weight: bold;
+}
+
+.article-list article a:hover {
+  color: #ee0000;
+}
+
+.article-list article {
+  font-family: georgia;
+  font-size: 16px;
+  color: #666;
+}
+
+.article-list article time {
+  float: right;
+}
+
+.blog-footer a {
+  color: #4169e1;
+  font-family: "microsoft yahei";
+  font-weight: bold;
+}
+
+.blog-footer a:hover {
+  color: #ee0000;
+}
+
+.article .article-content p {
+  margin-bottom: 25px;
+  color: #333;
+  word-break: normal;
+  font-family: georgia, "microsoft yahei";
+  font-size: 18px;
+  text-shadow: 1px 1px 3px rgba(50, 50, 50, 0.15);
+}
+
+.main-contents .contents a {
+  font-size: 16px;
+  color: #4169e1;
+  margin-right: 5px;
+  font-family: garamond, "microsoft yahei";
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(50, 50, 50, 0.15);
+}
+
+.main-contents .contents a:hover {
+  color: #6495ed;
+  text-decoration: underline;
+}
+
+.article-info h3 {
+  font-size: 20px;
+}
+
+.article-info ul {
+  font-size: 16px;
+  color: #9c9c9c;
+  text-shadow: 1px 1px 3px rgba(50, 50, 50, 0.15);
+}
